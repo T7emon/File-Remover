@@ -12,7 +12,7 @@ import org.pushingpixels.substance.api.skin.SubstanceRavenLookAndFeel;
 
 public class Main {
 
-private static final String USER_HOME = System.getProperty("user.home"); //user's home directory
+private static final String USER_HOME = System.getProperty("user.home"); //user's home directory;
 private static final String FILE_DIRECTORY = USER_HOME + File.separator + "SteroidsPk Files"; //Change this to the path of the Files u want to be removed.
 
 public static void main(String[] args) {
