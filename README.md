@@ -1,5 +1,5 @@
 # Simple File Remover
 
-1. Edit cache_dir
+1. Edit File Directory
 
-2. EDIT THE CONFIG.CFG FILE
+2. Enjoy This Simple Directory/File Remover
